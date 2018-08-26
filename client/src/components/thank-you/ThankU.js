@@ -32,7 +32,7 @@ class ThankU extends Component {
             >
               <img
                 className="img-fluid p-3"
-                src="/uploads/linkedin-contact.png"
+                src="/uploads/linkedin-contact.jpg"
                 alt="Contact linkedin"
               />
             </a>

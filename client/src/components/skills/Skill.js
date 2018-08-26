@@ -18,7 +18,7 @@ class Skill extends Component {
               className="card-img-top"
               src={`/uploads/${skill.name
                 .toLowerCase()
-                .replace(/\s/g, "")}.png`}
+                .replace(/\s/g, "")}.jpg`}
               alt={`${skill.name}`}
             />
             <div className="card-body">

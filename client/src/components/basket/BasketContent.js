@@ -28,7 +28,7 @@ class BasketContent extends Component {
                 className="img-fluid"
                 src={`/uploads/${skill.name
                   .toLowerCase()
-                  .replace(/\s/g, "")}.png`}
+                  .replace(/\s/g, "")}.jpg`}
                 alt={`${skill.name}`}
               />
             </div>

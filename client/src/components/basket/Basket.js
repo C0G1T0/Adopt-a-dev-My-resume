@@ -21,7 +21,7 @@ class Basket extends Component {
           <div className="col-6">
             <img
               className="img-fluid"
-              src="uploads/shopping-cart.png"
+              src="uploads/shopping-cart.jpg"
               alt="developer skills"
             />
           </div>

@@ -87,7 +87,7 @@ class Profile extends Component {
               className="card-img-top"
               src={`/uploads/${skill.name
                 .toLowerCase()
-                .replace(/\s/g, "")}.png`}
+                .replace(/\s/g, "")}.jpg`}
               alt={`${skill.name}`}
             />
             <div className="card-body">
@@ -114,7 +114,7 @@ class Profile extends Component {
           <div className="row mb-5">
             <div className="col-md-3 mt-3 pt-2">
               <img
-                src="uploads/stamp.png"
+                src="uploads/stamp.jpg"
                 alt="It's a match!"
                 className="img-fluid"
               />
@@ -297,7 +297,7 @@ class Profile extends Component {
             <div className="col-md-4 col-sm-12 mt-5 text-center">
               <img
                 className="img-fluid"
-                src="uploads/yourturn.png"
+                src="uploads/yourturn.jpg"
                 alt="Enought about me"
               />
             </div>
@@ -335,7 +335,7 @@ class Profile extends Component {
             <div className="col-12 mb-5">
               <img
                 className="img-fluid"
-                src="uploads/expressyourself.png"
+                src="uploads/expressyourself.jpg"
                 alt="Express yourself"
               />
             </div>
