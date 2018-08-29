@@ -6,7 +6,7 @@ export default () => {
       <Link to="/">
         <img
           className="col-md-12 col-sm-12 img-fluid"
-          src="/uploads/adopt-a-dev.jpg"
+          src="/uploads/adopt-a-dev"
           alt="Adopt a dev logo"
         />
       </Link>
