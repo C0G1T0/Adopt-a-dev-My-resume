@@ -2,7 +2,6 @@
 
 ## Project Full stack MERN : MongoDB, Express, React-Redux, Node
 
-## To see the application online: https://adopt-a-dev.herokuapp.com/
 
 This app is an online store to find your futur web developer! On top of that, it is my resume ;-)
 
